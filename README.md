@@ -23,3 +23,5 @@ If you are at a command line at the MSI, the commands
 will start the Jupyter notebook system in your web browser. From there, you can open the saved IPython notebooks (files with the extension .ipynb) by clicking on them.
 
 If you do not have access to a Python environment right now, you can click on the Binder badge above to run these examples through [Mybinder.org](https://mybinder.org/) in a temporary environment. 
+
+jupyter notebooks can be uploaded to github and previewed. ipython function nbconvert can convert notebooks to other formats like html, pdf etc
